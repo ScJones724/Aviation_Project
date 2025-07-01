@@ -48,6 +48,7 @@ The company is diversifying its portfolio by entering the aviation sector. Howev
   - Analyzed contextual factors (weather, flight phase, etc.).
 - **Visualization:**  
   - Used Python (pandas, seaborn, matplotlib) for data exploration and plotting[1].
+  - For dashboard in tableau, here is the link - https://public.tableau.com/views/Aviation_project_tableau/UnderstandingAviationincidenttrends?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
  
   1. Frequency of injury_severity
        

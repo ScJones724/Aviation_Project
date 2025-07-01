@@ -49,7 +49,7 @@ The company is diversifying its portfolio by entering the aviation sector. Howev
 - **Visualization:**  
   - Used Python (pandas, seaborn, matplotlib) for data exploration and plotting[1].
  
-    1. Injury vs severity
+  1. Frequency of injury_severity
        
 ![image](https://github.com/user-attachments/assets/9ab49a4a-3a27-498a-a928-b9b7f95899ca)
 
